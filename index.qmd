@@ -1,6 +1,14 @@
 ---
-title: "Module 0"
+title: "Welcome to My Website"
+author: "Ricardo Marin Fdez-Conde"
+date: "03-31-2026"
+format:
+  html:
+    theme: journal
+    toc: true
 ---
+# Hello, World!  
+Welcome to my Quarto website.  
 
 This is a Quarto website.
 

@@ -1,15 +1,21 @@
 ---
-title: "Welcome to My Website"
+title: "Module 1 Assignment"
 author: "Ricardo Marin Fdez-Conde"
 date: "03-31-2026"
 format:
   html:
-    theme: journal
+    theme: school
     toc: true
 ---
-# Hello, World!  
-Welcome to my Quarto website.  
 
-This is a Quarto website.
+# Welcome
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My name is Ricardo Marin Fdez-Conde.
+
+This website was created for the Module 1 Cloud Computing assignment using Quarto.
+
+## Python Example
+
+```{python}
+print("Hello from my Quarto website!")
+```

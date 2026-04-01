@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About Me\nI am Ricardo Marin Fdez-Conde.\nThis website was created for the Module 1 Cloud Computing assignment."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Module 1 Assignment",
+    "section": "",
+    "text": "My name is Ricardo Marin Fdez-Conde.\nThis website was created for the Module 1 Cloud Computing assignment using Quarto.\n\n\n\nprint(\"Hello from my Quarto website!\")\n\nHello from my Quarto website!"
+  },
+  {
+    "objectID": "index.html#python-example",
+    "href": "index.html#python-example",
+    "title": "Module 1 Assignment",
+    "section": "",
+    "text": "print(\"Hello from my Quarto website!\")\n\nHello from my Quarto website!"
+  }
+]

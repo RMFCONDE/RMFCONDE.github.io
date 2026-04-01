@@ -1,5 +1,12 @@
 ---
 title: "About"
+format:
+  html:
+    theme: journal
 ---
 
-About this site
+# About Me
+
+I am Ricardo Marin Fdez-Conde.
+
+This website was created for the Module 1 Cloud Computing assignment.

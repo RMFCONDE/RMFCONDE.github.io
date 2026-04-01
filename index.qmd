@@ -4,7 +4,7 @@ author: "Ricardo Marin Fdez-Conde"
 date: "03-31-2026"
 format:
   html:
-    theme: school
+    theme: journal
     toc: true
 ---
 
